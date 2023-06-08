@@ -18,3 +18,6 @@
 - [Saga, Chris Richardson](https://microservices.io/patterns/data/saga.html)
 - [Outbox Pattern, Mauro Servienti](https://milestone.topics.it/2023/02/07/outbox-what-and-why.html)
 - [Idempotency Patterns](https://blog.jonathanoliver.com/idempotency-patterns/)
+
+# Observability
+- [Finding C# Memory Leaks](https://timdeschryver.dev/blog/finding-that-csharp-memory-leak?utm_source=csharpdigest&utm_medium=email&utm_campaign=330#key-takeaways)
