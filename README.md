@@ -2,6 +2,7 @@
 # System Design/Architecture
 - [All our aggregates are wrong, Mauro Servienti](https://www.youtube.com/watch?v=hev65ozmYPI)
 - [Distributed Systems Design Fundamentals course, Udi Dahan](https://learn.particular.net/courses/take/distributed-systems-design-fundamentals-online/texts/23758551-fallacies-of-distributed-computing-intro-and-additional-resources)
+- [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 
 # Messaging
 - [RPC vs Messaging](https://particular.net/blog/rpc-vs-messaging-which-is-faster)
