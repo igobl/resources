@@ -22,3 +22,6 @@
 
 # Observability
 - [Finding C# Memory Leaks](https://timdeschryver.dev/blog/finding-that-csharp-memory-leak?utm_source=csharpdigest&utm_medium=email&utm_campaign=330#key-takeaways)
+
+# Security & Auth
+- [Why you should seperate your billing from entitlement](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
