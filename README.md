@@ -1,3 +1,4 @@
+Collection of learning material that I have found interesting/useful. 
 
 # System Design/Architecture
 - [All our aggregates are wrong, Mauro Servienti](https://www.youtube.com/watch?v=hev65ozmYPI)
