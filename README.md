@@ -27,3 +27,4 @@ Collection of learning material that I have found interesting/useful.
 
 # Security & Auth
 - [Why you should seperate your billing from entitlement](https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/)
+- [Permissions, Privileges & Scopes](https://auth0.com/blog/permissions-privileges-and-scopes/)
